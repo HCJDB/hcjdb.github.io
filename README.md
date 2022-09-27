@@ -10,3 +10,7 @@
 
  Я, Берлин Андрей, изучаю веб технологии
 в частности, и информатику (it), в общем. 
+
+I, Andrey Berlin, study web technologies
+in particular, and computer science (it), 
+in general.
