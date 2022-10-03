@@ -1,0 +1,18 @@
+body {
+  
+  
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow);
+  
+  
+}
+
+header{
+  
+  text-align: center;
+  
+  color: blue;
+  
+}
+
+
